@@ -1,0 +1,4 @@
+interface:
+  display_name: "数字成长档案"
+  short_description: "将独立成长阶段制成摄影与坐标几何结合的数字档案海报及连续成长动效"
+  default_prompt: "使用 $specimen-growth-archive，将我提供的主体做成数字成长档案，保留真实结构，并按已确认版式检查成长过渡、标注与原图保真。"

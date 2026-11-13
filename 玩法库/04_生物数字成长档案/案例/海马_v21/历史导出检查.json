@@ -1,0 +1,65 @@
+{
+  "size": [
+    720,
+    960
+  ],
+  "frames": 300,
+  "duration_ms": 12000,
+  "loop": 0,
+  "all_frames_decoded": true,
+  "progress_monotonic_0_to_100": true,
+  "pixel_aligned_rules_all_full_opacity_frames": true,
+  "stage_readout": "one numeral and name per frame; no crossfade overlay",
+  "source_photo_endpoints": 5,
+  "replacement_tube": false,
+  "replacement_fin_texture": false,
+  "gif_palette_sample_frames": [
+    10,
+    35,
+    65,
+    95,
+    125,
+    155,
+    185,
+    215,
+    245,
+    265,
+    280,
+    299
+  ],
+  "gif_rgb_mae_samples": [
+    0.42192226080246914,
+    0.6529711612654321,
+    0.714434799382716,
+    0.735526138117284,
+    0.7573413387345679,
+    0.8274387538580247,
+    1.0367828896604938,
+    1.2547371720679013,
+    1.6421373456790123,
+    1.6622892554012345,
+    1.5635469714506174,
+    0.0
+  ],
+  "gif_bytes": 15569964,
+  "mp4_bytes": 1982993,
+  "visual_review": {
+    "all_300_frame_contact_sheets_reviewed": true,
+    "tail_fin_20_enlarged_transition_samples_reviewed": true,
+    "gif_decoded_crop_samples": 10,
+    "finding": "No recurrence observed of the prior smooth replacement tube, detached tail remnant, or overlapping stage numerals in the reviewed output.",
+    "acceptance": "assistant self-review; user acceptance pending"
+  },
+  "gif_subject_color_mae_samples": [
+    5.072581176315616,
+    5.600132362673726,
+    5.225666333961776,
+    5.338119854489757,
+    4.847166240893178,
+    5.430204336296989,
+    5.434309614702631,
+    6.131264713517191,
+    6.542920428962212,
+    7.026028944396291
+  ]
+}
