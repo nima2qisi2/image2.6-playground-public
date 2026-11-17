@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": "CT-01",
+      "path": "../assets/previews/ct-01.png"
+    },
+    {
+      "id": "CT-02",
+      "path": "../assets/previews/ct-02.png"
+    },
+    {
+      "id": "CT-03",
+      "path": "../assets/previews/ct-03.png"
+    },
+    {
+      "id": "CT-04",
+      "path": "../assets/previews/ct-04.png"
+    },
+    {
+      "id": "CT-05",
+      "path": "../assets/previews/ct-05.png"
+    },
+    {
+      "id": "CT-06",
+      "path": "../assets/previews/ct-06.png"
+    },
+    {
+      "id": "CT-07",
+      "path": "../assets/previews/ct-07.png"
+    },
+    {
+      "id": "CT-08",
+      "path": "../assets/previews/ct-08.png"
+    },
+    {
+      "id": "CT-09",
+      "path": "../assets/previews/ct-09.png"
+    },
+    {
+      "id": "CT-10",
+      "path": "../assets/previews/ct-10.png"
+    },
+    {
+      "id": "CT-11",
+      "path": "../assets/previews/ct-11.png"
+    },
+    {
+      "id": "CT-12",
+      "path": "../assets/previews/ct-12.png"
+    },
+    {
+      "id": "CT-13",
+      "path": "../assets/previews/ct-13.png"
+    },
+    {
+      "id": "CT-14",
+      "path": "../assets/previews/ct-14.png"
+    },
+    {
+      "id": "CT-15",
+      "path": "../assets/previews/ct-15.png"
+    },
+    {
+      "id": "CT-16",
+      "path": "../assets/previews/ct-16.png"
+    },
+    {
+      "id": "CT-17",
+      "path": "../assets/previews/ct-17.png"
+    },
+    {
+      "id": "CT-18",
+      "path": "../assets/previews/ct-18.png"
+    },
+    {
+      "id": "CT-19",
+      "path": "../assets/previews/ct-19.png"
+    },
+    {
+      "id": "CT-20",
+      "path": "../assets/previews/ct-20.png"
+    },
+    {
+      "id": "CT-21",
+      "path": "../assets/previews/ct-21.png"
+    },
+    {
+      "id": "CT-22",
+      "path": "../assets/previews/ct-22.png"
+    },
+    {
+      "id": "CT-23",
+      "path": "../assets/previews/ct-23.png"
+    },
+    {
+      "id": "CT-24",
+      "path": "../assets/previews/ct-24.png"
+    },
+    {
+      "id": "CT-25",
+      "path": "../assets/previews/ct-25.png"
+    },
+    {
+      "id": "CT-26",
+      "path": "../assets/previews/ct-26.png"
+    },
+    {
+      "id": "CT-27",
+      "path": "../assets/previews/ct-27.png"
+    },
+    {
+      "id": "CT-28",
+      "path": "../assets/previews/ct-28.png"
+    },
+    {
+      "id": "CT-29",
+      "path": "../assets/previews/ct-29.png"
+    },
+    {
+      "id": "CT-30",
+      "path": "../assets/previews/ct-30.png"
+    },
+    {
+      "id": "CT-31",
+      "path": "../assets/previews/ct-31.png"
+    },
+    {
+      "id": "CT-32",
+      "path": "../assets/previews/ct-32.png"
+    }
+  ],
+  "order": [
+    "CT-01",
+    "CT-02",
+    "CT-03",
+    "CT-04",
+    "CT-05",
+    "CT-06",
+    "CT-07",
+    "CT-08",
+    "CT-09",
+    "CT-10",
+    "CT-11",
+    "CT-12",
+    "CT-13",
+    "CT-14",
+    "CT-15",
+    "CT-16",
+    "CT-17",
+    "CT-18",
+    "CT-19",
+    "CT-20",
+    "CT-21",
+    "CT-22",
+    "CT-23",
+    "CT-24",
+    "CT-25",
+    "CT-26",
+    "CT-27",
+    "CT-28",
+    "CT-29",
+    "CT-30",
+    "CT-31",
+    "CT-32"
+  ],
+  "size": [
+    1080,
+    608
+  ],
+  "fit": "contain",
+  "background": "#000000",
+  "duration_ms": 160,
+  "durations_ms": {
+    "CT-01": 160,
+    "CT-02": 160,
+    "CT-03": 150,
+    "CT-04": 160,
+    "CT-05": 160,
+    "CT-06": 150,
+    "CT-07": 160,
+    "CT-08": 150,
+    "CT-09": 160,
+    "CT-10": 160,
+    "CT-11": 150,
+    "CT-12": 160,
+    "CT-13": 160,
+    "CT-14": 150,
+    "CT-15": 160,
+    "CT-16": 150,
+    "CT-17": 160,
+    "CT-18": 160,
+    "CT-19": 150,
+    "CT-20": 160,
+    "CT-21": 160,
+    "CT-22": 150,
+    "CT-23": 160,
+    "CT-24": 150,
+    "CT-25": 160,
+    "CT-26": 160,
+    "CT-27": 150,
+    "CT-28": 160,
+    "CT-29": 160,
+    "CT-30": 150,
+    "CT-31": 160,
+    "CT-32": 150
+  },
+  "loop": 0
+}
