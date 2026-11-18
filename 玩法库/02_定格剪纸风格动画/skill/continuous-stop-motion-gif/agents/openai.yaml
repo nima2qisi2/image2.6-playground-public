@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红帽定稿 · 连续叙事定格动画"
+  short_description: "复现小红帽定稿纸雕动画，或按新故事适配多镜头、影子变身和同步拟音"
+  default_prompt: "使用 $continuous-stop-motion-gif 复现小红帽定稿动画，保留十镜头叙事、影子先变和同步拟音，输出 MP4 与 GIF。"
