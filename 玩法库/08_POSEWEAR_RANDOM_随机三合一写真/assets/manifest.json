@@ -1,28 +1,44 @@
 {
   "module": "08 POSEWEAR RANDOM",
-  "created": "2026-11-20",
-  "source": "prior two generated images in current chat",
+  "replaced_on": "2026-11-20",
+  "source": "User-provided completed images; not confirmed PoseWear samples.",
+  "file_policy": "High quality lossy WebP conversions at same image dimensions plus 384px previews; raw user PNG excluded.",
   "assets": [
     {
-      "path": "solo-preview.webp",
-      "original": "a_crisp_high_detail_portrait_style_full_body_out.png",
-      "original_px": [
+      "case": "01 SOLO",
+      "source_filename": "b2344f4d-ac64-4e8c-8420-cc4fb74395ab.png",
+      "original_size_px": [
         941,
         1672
       ],
-      "preview_width_px": 128,
-      "description": "AI photography test, SOLO, references S366 + P025 + AUT-0156"
+      "original_sha256": "54680c431e36ad55bf6d9a5335b00c1377e83a549b82a60b9247c77119f6253d",
+      "full": "solo-full.webp",
+      "full_sha256": "16cf7064a91513f1304d567cebf3cc7df776d5345fc1a61aae1ed223a94e0c23",
+      "preview": "solo-preview.webp",
+      "preview_px": [
+        384,
+        682
+      ],
+      "preview_sha256": "54c55abb4c9a300be135116bc31b1e810b0066ef1842c7f697bc343c8bb88bfd"
     },
     {
-      "path": "duo-preview.webp",
-      "original": "a_crisp_photorealistic_warmly_lit_street_autumn.png",
-      "original_px": [
+      "case": "02 DUO",
+      "source_filename": "image(20261120-070929).png",
+      "original_size_px": [
         941,
         1671
       ],
-      "preview_width_px": 128,
-      "description": "AI photography test, DUO, F286 + F858, outfits AUT-0082 + AUT-0016, custom double-person pose"
+      "original_sha256": "c2757ea9aad1363c912f7b3913369122f40900cb3e4a033cfa242d3d77e8ffea",
+      "full": "duo-full.webp",
+      "full_sha256": "563f1980474b4934eceeee1d7a14cdac35fbad0fb01ae0b877d45614b638d3be",
+      "preview": "duo-preview.webp",
+      "preview_px": [
+        384,
+        682
+      ],
+      "preview_sha256": "6de07786f8166506e807e5f8d2588a69e13d9653f19fde7a09b6cc736e6680d3"
     }
   ],
-  "note": "Preview images are low-resolution derivatives, not Nikon camera originals or native 8K sources."
+  "is_native_8k": false,
+  "posewear_source_ids_verified": false
 }

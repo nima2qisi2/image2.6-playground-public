@@ -64,17 +64,15 @@
 
 ### 08｜POSEWEAR RANDOM · 随机三合一写真
 
-| SOLO 单人秋日庭院 | DUO 双人街头互动 |
+| SOLO · 绿荫波点裙蹲姿 | DUO · 绿荫双人环抱 |
 | --- | --- |
-| [![单人写真](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/assets/solo-preview.webp)](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/案例/01_单人_秋日庭院.md) | [![双人写真](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/assets/duo-preview.webp)](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/案例/02_双人_秋日街景.md) |
+| [![单人](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/assets/solo-preview.webp)](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/案例/01_单人_绿荫蹲姿.md) | [![双人](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/assets/duo-preview.webp)](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/案例/02_双人_绿荫环抱.md) |
 
-*以上为实际生成成片的轻量预览，宽 128px；双人动作属于原创测试，不是已核实的 PoseWear 双人姿势抽取。*
+玩法核心是从 PoseWear 真实抽取 **人像 × 姿势 × 服装**，通过专业摄影指导实现单人或双人写真。最新两张展示图为用户亲自提供：单人低位蹲姿，随后在同一人物和空间中加入第二位白裙女性，从后方环抱，实现 **单人 → 双人** 连续性创作。**它们不是 PoseWear 随机抽卡成果。**
 
-从 PoseWear 的人像、姿势和服装素材库抽卡，以人物身份、动作骨架、服装结构为主要约束，由摄影指导自动选择符合穿搭的室内或户外场景、自然布光和背景虚化。支持 **SOLO 单人三合一**、**DUO 双人互动**；有已生成的秋日庭院单人及秋日街头双人两例，附真实来源和自定义姿势的披露。
+附 941px 宽的高品质 WebP 案例图和 384px 宽缩略图；Nikon 仅代表复现时摄影风格目标，不宣称真实尼康实机或原生 8K。
 
-> AI 模拟 Nikon Z8/Z9 的人像风格，不是尼康真实实拍；“8K”是细节目标，实际像素按文件标注。双人测试中姿势为自定义构图，未伪称来自网站双人姿势条目。
-
-[玩法介绍与案例](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/README.md) · [查看单人](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/案例/01_单人_秋日庭院.md) · [查看双人](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/案例/02_双人_秋日街景.md) · [使用 Skill](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/skill/posewear-random/SKILL.md)
+[玩法说明](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/README.md) · [单人案例](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/案例/01_单人_绿荫蹲姿.md) · [双人案例](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/案例/02_双人_绿荫环抱.md) · [打开 Skill](玩法库/08_POSEWEAR_RANDOM_随机三合一写真/skill/posewear-random/SKILL.md)
 
 ## 开始使用
 
