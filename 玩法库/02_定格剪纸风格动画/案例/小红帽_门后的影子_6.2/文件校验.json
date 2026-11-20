@@ -1,0 +1,26 @@
+{
+  "files": [
+    {
+      "file": "preview.gif",
+      "bytes": 36818077,
+      "sha256": "423a679688b4baa35fc7bfdee18869530e1c8a39c1350e752023ad55988a9b95",
+      "identical_to_local_master": true
+    },
+    {
+      "file": "film.mp4",
+      "bytes": 17369125,
+      "sha256": "af22ea1d475285d82425b644332286688ec7640fe79916fe8c2a30115c602861",
+      "identical_to_local_master": true
+    }
+  ],
+  "gif": {
+    "size": [
+      640,
+      360
+    ],
+    "frames": 263,
+    "duration_ms": 22000,
+    "loop": 0
+  },
+  "audio_listened": false
+}

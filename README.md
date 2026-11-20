@@ -23,11 +23,13 @@
 
 **小红帽 · 门后的影子**：大灰狼树后换装、戴眼镜、敲门，小红帽在屋内偷看。门打开后，影子先变成巨兽，再揭示真身，最后切到狼的反应。
 
-| 戴好眼镜 | 屋内偷看 | 巨兽反打 |
-| --- | --- | --- |
-| ![狼戴眼镜的镜头素材](玩法库/02_定格剪纸风格动画/skill/continuous-stop-motion-gif/assets/red-hood-final/资产/眼镜特写.png) | ![小红帽偷看的镜头素材](玩法库/02_定格剪纸风格动画/skill/continuous-stop-motion-gif/assets/red-hood-final/资产/屋内偷看.png) | ![从狼身后看巨兽的镜头素材](玩法库/02_定格剪纸风格动画/skill/continuous-stop-motion-gif/assets/red-hood-final/资产/巨兽反打.png) |
+<img src="玩法库/02_定格剪纸风格动画/案例/小红帽_门后的影子_6.2/preview.gif" alt="小红帽·门后的影子 6.2 版完整无声动画" width="640">
 
-上图为工程中的原始镜头素材。22 秒定稿采用十镜头叙事、分层动作与同步拟音；仓库提供 Skill、12 张源图、脚本和实际提示词，运行工程后生成成片。
+上方为 **6.2 版完整 GIF**：22 秒、640×360、无声，约 36.82 MB。带声 MP4 为 1600×900。加载较慢时，可直接打开或下载视频。
+
+[下载带声 MP4](玩法库/02_定格剪纸风格动画/案例/小红帽_门后的影子_6.2/film.mp4?raw=true) · [查看动画与文件规格](玩法库/02_定格剪纸风格动画/案例/小红帽_门后的影子_6.2/README.md)
+
+仓库同时提供 Skill、12 张源图、脚本和实际提示词，可复现或修改十镜头叙事、分层动作与同步拟音。
 
 [了解玩法与使用方法](玩法库/02_定格剪纸风格动画/README.md) · [复现小红帽定稿](玩法库/02_定格剪纸风格动画/skill/continuous-stop-motion-gif/references/final-case.md) · [打开 Skill](玩法库/02_定格剪纸风格动画/skill/continuous-stop-motion-gif/SKILL.md)
 
