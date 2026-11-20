@@ -1,0 +1,28 @@
+{
+  "module": "08 POSEWEAR RANDOM",
+  "created": "2026-11-20",
+  "source": "prior two generated images in current chat",
+  "assets": [
+    {
+      "path": "solo-preview.webp",
+      "original": "a_crisp_high_detail_portrait_style_full_body_out.png",
+      "original_px": [
+        941,
+        1672
+      ],
+      "preview_width_px": 128,
+      "description": "AI photography test, SOLO, references S366 + P025 + AUT-0156"
+    },
+    {
+      "path": "duo-preview.webp",
+      "original": "a_crisp_photorealistic_warmly_lit_street_autumn.png",
+      "original_px": [
+        941,
+        1671
+      ],
+      "preview_width_px": 128,
+      "description": "AI photography test, DUO, F286 + F858, outfits AUT-0082 + AUT-0016, custom double-person pose"
+    }
+  ],
+  "note": "Preview images are low-resolution derivatives, not Nikon camera originals or native 8K sources."
+}
