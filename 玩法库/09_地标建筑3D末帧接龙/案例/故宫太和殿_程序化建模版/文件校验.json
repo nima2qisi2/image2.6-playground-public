@@ -1,0 +1,43 @@
+{
+  "files": [
+    {
+      "file": "preview.gif",
+      "bytes": 6918834,
+      "sha256": "537ee2c5a6cff85b77206ef73d128a3e4b178468b49797bf08ebb045bfd9cd0c",
+      "identical_to_local_master": true
+    },
+    {
+      "file": "taihedian-30s-final.mp4",
+      "bytes": 18678744,
+      "sha256": "8233c94a8bb3f0fe2487221ed1b27238a0a092a601469af96f1c54cb52b01c7a",
+      "identical_to_local_master": true
+    },
+    {
+      "file": "taihedian-procedural-still.png",
+      "bytes": 1007525,
+      "sha256": "0fc30cae88af1bc89152d8214a5bdf41fd68c2ab86fb77382f82ff44844d9a11",
+      "identical_to_local_master": true
+    }
+  ],
+  "mp4": {
+    "size": [
+      1280,
+      720
+    ],
+    "fps": 24,
+    "frames": 720,
+    "duration_ms": 30000,
+    "video_codec": "h264",
+    "audio_codec": "aac"
+  },
+  "gif": {
+    "size": [
+      640,
+      360
+    ],
+    "frames": 90,
+    "duration_ms": 30000,
+    "loop": 0
+  },
+  "audio_listened": false
+}

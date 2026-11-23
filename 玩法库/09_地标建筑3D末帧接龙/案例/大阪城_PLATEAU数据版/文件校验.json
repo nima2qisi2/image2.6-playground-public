@@ -1,0 +1,43 @@
+{
+  "files": [
+    {
+      "file": "preview.gif",
+      "bytes": 7558129,
+      "sha256": "baeb305b587d36d8becfdc0af2dc7265ae1a794e5984aaf438903806b7bf4739",
+      "identical_to_local_master": true
+    },
+    {
+      "file": "osaka-castle-plateau-30s-final.mp4",
+      "bytes": 26473622,
+      "sha256": "1f175bbf6ddba1da586567a63ead7a2a508408525e8cceedb69602682ce02284",
+      "identical_to_local_master": true
+    },
+    {
+      "file": "osaka-castle-plateau-still.png",
+      "bytes": 1003944,
+      "sha256": "c4c1d729abf9b8676c997d363247929dc290907569f7221bab3680c5b36eb5cc",
+      "identical_to_local_master": true
+    }
+  ],
+  "mp4": {
+    "size": [
+      1280,
+      720
+    ],
+    "fps": 24,
+    "frames": 720,
+    "duration_ms": 30000,
+    "video_codec": "h264",
+    "audio_codec": "aac"
+  },
+  "gif": {
+    "size": [
+      640,
+      360
+    ],
+    "frames": 90,
+    "duration_ms": 30000,
+    "loop": 0
+  },
+  "audio_listened": false
+}

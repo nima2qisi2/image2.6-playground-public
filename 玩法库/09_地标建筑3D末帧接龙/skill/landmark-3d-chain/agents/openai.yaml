@@ -1,0 +1,4 @@
+interface:
+  display_name: "地标建筑3D末帧接龙"
+  short_description: "用真实三维数据或规制建模出 Blender 静止画，再以末帧接龙拼成精确 30 秒地标航拍短片"
+  default_prompt: "使用 $landmark-3d-chain，把我指定的地标建筑做成 30 秒末帧接龙视频，先过静止画验收闸门，再按环绕、穿门上升、空中俯瞰三段接龙并如实列偏差。"
