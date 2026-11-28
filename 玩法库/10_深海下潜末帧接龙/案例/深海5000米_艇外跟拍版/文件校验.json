@@ -1,0 +1,27 @@
+{
+  "files": [
+    {
+      "file": "preview.gif",
+      "bytes": 11111984,
+      "sha256": "967b61197ad2cad5215a7392dbcbf7bd794a1964322883f0d6fd8aa21cd09c4d",
+      "identical_to_local_master": true
+    },
+    {
+      "file": "deep-sea-5000m-still.png",
+      "bytes": 523293,
+      "sha256": "644e36e689c39bcd0aab0432014817a7dfb3f43be1ce80c6e75c20b8e86e83f9",
+      "identical_to_local_master": true
+    }
+  ],
+  "gif": {
+    "size": [
+      640,
+      360
+    ],
+    "frames": 180,
+    "duration_ms": 60000,
+    "loop": 0
+  },
+  "mp4_uploaded": false,
+  "note": "成片 MP4 暂未上传；本地成片实测 1280x720/24fps/1440帧/60.000s/无音轨"
+}
